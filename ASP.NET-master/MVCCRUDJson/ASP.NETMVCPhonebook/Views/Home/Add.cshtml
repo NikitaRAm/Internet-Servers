@@ -1,0 +1,23 @@
+﻿@model ASP.NETMVCPhonebook.Models.NumbersModel
+
+@{
+    ViewData["Title"] = "Add";
+}
+
+<form asp-action="AddSave" asp-controller="Home" method="post">
+    <div class="form-group">
+        <label for="nameText">Name</label>
+        <input type="text" class="form-control" asp-for="Name" id="nameText">
+    </div>
+    <div class="form-group">
+        <label for="surnameText">Surame</label>
+        <input type="text" class="form-control" asp-for="Surname" id="surnameText">
+    </div>
+    <div class="form-group">
+        <label for="numberText">Number</label>
+        <input type="text" class="form-control" asp-for="Number" id="numberText">
+    </div>
+    
+    <button type="submit" >Submit</button>
+    
+</form>

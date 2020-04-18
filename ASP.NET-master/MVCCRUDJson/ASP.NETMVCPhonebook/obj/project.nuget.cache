@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QasSw85LSvApVMWZ5QvQ5XEh31IU5n5Na1fz2nkuk91wlD8XM4D6he9uMOJcXEpHcXd6svwSWD7t1zZ3x441UA==",
+  "success": true,
+  "projectFilePath": "D:\\Education\\Programming_Internet-Servers\\Labs\\Internet-Servers\\ASP.NET-master\\MVCCRUDJson\\ASP.NETMVCPhonebook\\ASP.NETMVCPhonebook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikita\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

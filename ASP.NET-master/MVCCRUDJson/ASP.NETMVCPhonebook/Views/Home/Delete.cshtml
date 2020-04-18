@@ -1,0 +1,15 @@
+﻿@model ASP.NETMVCPhonebook.Models.NumbersModel
+
+@{
+    ViewData["Title"] = "Update";
+}
+
+<form asp-controller="Home" asp-action="DeleteSave" method="post">
+    <input type="hidden" asp-for="Id" value="@ViewData["Id"]"/>
+    <b> Delete this contact?</b>
+    <p>@ViewData["Name"]</p>
+    <p>@ViewData["Surname"]</p>
+    <p>@ViewData["Number"]</p>
+    
+    <input type="submit"  value="Delete"/>
+</form>

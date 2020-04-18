@@ -1,0 +1,10 @@
+E:\!Программирование интернет-серверов\Laboratory Works\2a_HttpHandler\POSTHttpRequestWF\bin\Debug\POSTHttpRequestWF.exe.config
+E:\!Программирование интернет-серверов\Laboratory Works\2a_HttpHandler\POSTHttpRequestWF\bin\Debug\POSTHttpRequestWF.exe
+E:\!Программирование интернет-серверов\Laboratory Works\2a_HttpHandler\POSTHttpRequestWF\bin\Debug\POSTHttpRequestWF.pdb
+E:\!Программирование интернет-серверов\Laboratory Works\2a_HttpHandler\POSTHttpRequestWF\obj\Debug\POSTHttpRequestWF.csprojAssemblyReference.cache
+E:\!Программирование интернет-серверов\Laboratory Works\2a_HttpHandler\POSTHttpRequestWF\obj\Debug\POSTHttpRequestWF.Form1.resources
+E:\!Программирование интернет-серверов\Laboratory Works\2a_HttpHandler\POSTHttpRequestWF\obj\Debug\POSTHttpRequestWF.Properties.Resources.resources
+E:\!Программирование интернет-серверов\Laboratory Works\2a_HttpHandler\POSTHttpRequestWF\obj\Debug\POSTHttpRequestWF.csproj.GenerateResource.cache
+E:\!Программирование интернет-серверов\Laboratory Works\2a_HttpHandler\POSTHttpRequestWF\obj\Debug\POSTHttpRequestWF.csproj.CoreCompileInputs.cache
+E:\!Программирование интернет-серверов\Laboratory Works\2a_HttpHandler\POSTHttpRequestWF\obj\Debug\POSTHttpRequestWF.exe
+E:\!Программирование интернет-серверов\Laboratory Works\2a_HttpHandler\POSTHttpRequestWF\obj\Debug\POSTHttpRequestWF.pdb

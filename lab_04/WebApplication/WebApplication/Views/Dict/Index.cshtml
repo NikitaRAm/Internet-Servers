@@ -1,0 +1,40 @@
+﻿@model IEnumerable<WebApplication.Models.User>
+@{
+    ViewBag.Title = "Dict";
+}
+
+<h2>Users</h2>
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Phone</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </th>
+                <th>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </th>
+                <th>
+                    @Html.DisplayFor(modelItem => item.PhoneNumber)
+                </th>
+                <th>
+                    @Html.ActionLink("Edit", "Update", new { Id = item.Id }) | 
+                    @Html.ActionLink("Delete", "Delete", new { Id = item.Id })
+                </th>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<button type="button" class="btn btn-secondary">
+    @Html.ActionLink("Add", "Create", "Dict")
+</button>
