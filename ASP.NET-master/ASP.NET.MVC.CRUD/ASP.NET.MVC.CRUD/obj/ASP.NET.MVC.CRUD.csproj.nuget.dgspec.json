@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Education\\Programming_Internet-Servers\\Labs\\Internet-Servers\\ASP.NET-master\\ASP.NET.MVC.CRUD\\ASP.NET.MVC.CRUD\\ASP.NET.MVC.CRUD.csproj": {}
+    "E:\\Education\\Programming_Internet-Servers\\Labs\\Internet-Servers\\ASP.NET-master\\ASP.NET.MVC.CRUD\\ASP.NET.MVC.CRUD\\ASP.NET.MVC.CRUD.csproj": {}
   },
   "projects": {
-    "D:\\Education\\Programming_Internet-Servers\\Labs\\Internet-Servers\\ASP.NET-master\\ASP.NET.MVC.CRUD\\ASP.NET.MVC.CRUD\\ASP.NET.MVC.CRUD.csproj": {
+    "E:\\Education\\Programming_Internet-Servers\\Labs\\Internet-Servers\\ASP.NET-master\\ASP.NET.MVC.CRUD\\ASP.NET.MVC.CRUD\\ASP.NET.MVC.CRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Education\\Programming_Internet-Servers\\Labs\\Internet-Servers\\ASP.NET-master\\ASP.NET.MVC.CRUD\\ASP.NET.MVC.CRUD\\ASP.NET.MVC.CRUD.csproj",
+        "projectUniqueName": "E:\\Education\\Programming_Internet-Servers\\Labs\\Internet-Servers\\ASP.NET-master\\ASP.NET.MVC.CRUD\\ASP.NET.MVC.CRUD\\ASP.NET.MVC.CRUD.csproj",
         "projectName": "ASP.NET.MVC.CRUD",
-        "projectPath": "D:\\Education\\Programming_Internet-Servers\\Labs\\Internet-Servers\\ASP.NET-master\\ASP.NET.MVC.CRUD\\ASP.NET.MVC.CRUD\\ASP.NET.MVC.CRUD.csproj",
-        "packagesPath": "C:\\Users\\Nikita\\.nuget\\packages\\",
-        "outputPath": "D:\\Education\\Programming_Internet-Servers\\Labs\\Internet-Servers\\ASP.NET-master\\ASP.NET.MVC.CRUD\\ASP.NET.MVC.CRUD\\obj\\",
+        "projectPath": "E:\\Education\\Programming_Internet-Servers\\Labs\\Internet-Servers\\ASP.NET-master\\ASP.NET.MVC.CRUD\\ASP.NET.MVC.CRUD\\ASP.NET.MVC.CRUD.csproj",
+        "packagesPath": "C:\\Users\\nikro\\.nuget\\packages\\",
+        "outputPath": "E:\\Education\\Programming_Internet-Servers\\Labs\\Internet-Servers\\ASP.NET-master\\ASP.NET.MVC.CRUD\\ASP.NET.MVC.CRUD\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Nikita\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\nikro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

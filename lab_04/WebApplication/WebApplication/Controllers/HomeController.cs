@@ -8,8 +8,15 @@ namespace WebApplication.Controllers
 {
     public class HomeController : Controller
     {
+
+
         public ActionResult Index()
         {
+            if (Session["user"] != null)
+            {
+                return Redirect("/chat");
+            }
+
             return View();
         }
 
@@ -26,5 +33,7 @@ namespace WebApplication.Controllers
 
             return View();
         }
+
+
     }
 }

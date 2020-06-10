@@ -1,0 +1,46 @@
+﻿@model List<PhonesLibSql.Contact>
+@*@model List<PhonesLib.Contact>*@
+@* для json *@
+@{
+    ViewBag.Title = "Index";
+}
+
+<style>
+    table {
+        border: 1px solid grey;
+        width: 100%;
+    }
+
+    th {
+        border: 1px solid grey;
+    }
+
+    td {
+        border: 1px solid grey;
+    }
+</style>
+
+<h2>Index</h2>
+<hr />
+<h4>List of contacts</h4>
+
+@using (Html.BeginForm("Add", "Dict", FormMethod.Get))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <div class="col-md-0">
+            <input type="submit" value="Add contact" class="btn btn-default" />
+        </div>
+    </div>
+}
+
+<br />
+<table>
+    <tr><th>Id</th><th>Surname</th><th>Phone</th><th>Edit</th><th>Delete</th></tr>
+    @foreach (var item in @Model.OrderBy(p => p.Surname))
+    {
+        { Html.RenderPartial("Partial",item); }
+    }
+</table>
+

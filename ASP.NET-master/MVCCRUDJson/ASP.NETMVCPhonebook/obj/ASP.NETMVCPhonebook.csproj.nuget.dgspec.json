@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Education\\Programming_Internet-Servers\\Labs\\Internet-Servers\\ASP.NET-master\\MVCCRUDJson\\ASP.NETMVCPhonebook\\ASP.NETMVCPhonebook.csproj": {}
+    "E:\\Education\\Programming_Internet-Servers\\Labs\\Internet-Servers\\ASP.NET-master\\MVCCRUDJson\\ASP.NETMVCPhonebook\\ASP.NETMVCPhonebook.csproj": {}
   },
   "projects": {
-    "D:\\Education\\Programming_Internet-Servers\\Labs\\Internet-Servers\\ASP.NET-master\\MVCCRUDJson\\ASP.NETMVCPhonebook\\ASP.NETMVCPhonebook.csproj": {
+    "E:\\Education\\Programming_Internet-Servers\\Labs\\Internet-Servers\\ASP.NET-master\\MVCCRUDJson\\ASP.NETMVCPhonebook\\ASP.NETMVCPhonebook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Education\\Programming_Internet-Servers\\Labs\\Internet-Servers\\ASP.NET-master\\MVCCRUDJson\\ASP.NETMVCPhonebook\\ASP.NETMVCPhonebook.csproj",
+        "projectUniqueName": "E:\\Education\\Programming_Internet-Servers\\Labs\\Internet-Servers\\ASP.NET-master\\MVCCRUDJson\\ASP.NETMVCPhonebook\\ASP.NETMVCPhonebook.csproj",
         "projectName": "ASP.NETMVCPhonebook",
-        "projectPath": "D:\\Education\\Programming_Internet-Servers\\Labs\\Internet-Servers\\ASP.NET-master\\MVCCRUDJson\\ASP.NETMVCPhonebook\\ASP.NETMVCPhonebook.csproj",
-        "packagesPath": "C:\\Users\\Nikita\\.nuget\\packages\\",
-        "outputPath": "D:\\Education\\Programming_Internet-Servers\\Labs\\Internet-Servers\\ASP.NET-master\\MVCCRUDJson\\ASP.NETMVCPhonebook\\obj\\",
+        "projectPath": "E:\\Education\\Programming_Internet-Servers\\Labs\\Internet-Servers\\ASP.NET-master\\MVCCRUDJson\\ASP.NETMVCPhonebook\\ASP.NETMVCPhonebook.csproj",
+        "packagesPath": "C:\\Users\\nikro\\.nuget\\packages\\",
+        "outputPath": "E:\\Education\\Programming_Internet-Servers\\Labs\\Internet-Servers\\ASP.NET-master\\MVCCRUDJson\\ASP.NETMVCPhonebook\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Nikita\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\nikro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

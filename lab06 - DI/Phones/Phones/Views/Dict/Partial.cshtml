@@ -1,0 +1,8 @@
+﻿@model PhonesLibSql.Contact
+<tr>
+      <td>@Model.Id</td>
+      <td>@Model.Surname</td>
+      <td>@Model.Phone</td>
+      <td>@Html.ActionLink("Edit", "Update", new { Id = Model.Id })</td>
+      <td>@Html.ActionLink("Delete", "Delete", new { Id = Model.Id })</td>
+</tr>
